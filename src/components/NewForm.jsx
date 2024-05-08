@@ -269,7 +269,7 @@ const NewForm = () => {
                     onChange={handleChange}
                   />
                   <input
-                    type="email"
+                    type="text"
                     id="email"
                     name="email"
                     className="flex font-abc font-medium size-5"

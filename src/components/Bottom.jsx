@@ -38,7 +38,7 @@ const Bottom = () => {
                 width: "326",
                 height: "20px",
                 gap: "52px",
-                right: "50px",
+                right: "100px",
               }}
               className="flex relative"
             >

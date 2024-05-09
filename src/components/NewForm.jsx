@@ -84,7 +84,7 @@ const NewForm = () => {
             style={{
               width: "64px",
               height: "64px",
-              top: "32px",
+
               left: "1200px",
               borderRadius: "40px",
               border: "1px solid",
@@ -102,7 +102,7 @@ const NewForm = () => {
         </Link>
         <div
           className="flex relative"
-          style={{ width: "128px", height: "48px", top: "32px" }}
+          style={{ width: "128px", height: "48px", top: "28px" }}
         >
           <img
             style={{

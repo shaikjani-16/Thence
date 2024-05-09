@@ -6,7 +6,7 @@ const Footer = () => {
     <div
       className="flex bg-white relative"
       style={{
-        width: "1440px",
+        width: "1380px",
         height: "813px",
         marginTop: "300px",
       }}
@@ -14,7 +14,7 @@ const Footer = () => {
       <div
         className="flex div2 relative"
         style={{
-          width: "1376px",
+          width: "1380px",
           height: "749px",
           top: "32px",
 
@@ -25,7 +25,7 @@ const Footer = () => {
         <div
           className="relative flex comments flex-col"
           style={{
-            width: "581px",
+            width: "500px",
             height: "538px",
             gap: "36px",
             top: "137px",
@@ -36,7 +36,7 @@ const Footer = () => {
           <div
             className="flex flex-row"
             style={{
-              width: "581px",
+              width: "500px",
               height: "52px",
               gap: "24px",
               alignItems: "center",
@@ -48,7 +48,7 @@ const Footer = () => {
               className="flex"
               style={{
                 height: "28px",
-                width: "581px",
+                width: "500px",
                 justifyContent: "space-between",
               }}
             >
@@ -75,7 +75,7 @@ const Footer = () => {
           <div
             className="flex flex-row"
             style={{
-              width: "581px",
+              width: "500px",
               height: "52px",
               gap: "24px",
               borderBottom: "1px solid",
@@ -86,7 +86,7 @@ const Footer = () => {
               className="flex"
               style={{
                 height: "28px",
-                width: "581px",
+                width: "500px",
                 justifyContent: "space-between",
                 alignItems: "center",
               }}
@@ -118,7 +118,7 @@ const Footer = () => {
           <div
             className="flex flex-col"
             style={{
-              width: "581px",
+              width: "500px",
               height: "154px",
               gap: "24px",
               borderBottom: "1px solid",
@@ -129,7 +129,7 @@ const Footer = () => {
               className="flex"
               style={{
                 height: "28px",
-                width: "581px",
+                width: "500px",
                 justifyContent: "space-between",
                 alignItems: "center",
               }}
@@ -157,7 +157,7 @@ const Footer = () => {
               </div>
             </div>
             <p
-              style={{ width: "581px", height: "78px", fontSize: "15px" }}
+              style={{ width: "500px", height: "78px", fontSize: "15px" }}
               className="font-abc font-normal text-left"
             >
               If unhappy with a project, communicate with the freelancer, allow
@@ -169,7 +169,7 @@ const Footer = () => {
           <div
             className="flex flex-row"
             style={{
-              width: "581px",
+              width: "500px",
               height: "52px",
               gap: "24px",
               alignItems: "center",
@@ -181,7 +181,7 @@ const Footer = () => {
               className="flex"
               style={{
                 height: "28px",
-                width: "581px",
+                width: "500px",
                 justifyContent: "space-between",
                 alignItems: "center",
               }}
@@ -212,7 +212,7 @@ const Footer = () => {
           <div
             className="flex flex-row"
             style={{
-              width: "581px",
+              width: "500px",
               height: "56px",
               gap: "24px",
               alignItems: "center",
@@ -224,7 +224,7 @@ const Footer = () => {
               className="flex"
               style={{
                 height: "56px",
-                width: "581px",
+                width: "500px",
                 justifyContent: "space-between",
               }}
             >
